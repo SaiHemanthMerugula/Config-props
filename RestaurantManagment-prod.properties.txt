@@ -8,4 +8,4 @@ spring.datasource.password=Root
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 
-discount =20
+discount.food=20
